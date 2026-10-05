@@ -1,0 +1,44 @@
+# Power BI Sales Dashboard
+
+An interactive Power BI dashboard for sales analysis, built using Power BI Desktop.
+
+## Overview
+This dashboard analyzes sales data across years, regions, product categories, sales reps, sales channels and customer types, and presents key insights through interactive visuals.
+
+## Key Metrics (Cards)
+- Total Sales
+- Total Quantity
+- Profit Margin %
+- Total Estimated Profit
+- Transaction Count
+
+## Visuals
+- Line chart: Total Sales by Year-Month
+- Column chart: Total Sales by Product Category
+- Donut chart: Total Sales by Region
+- Stacked column chart: Total Sales by Sales Channel and Customer Type
+- Bar chart: Total Sales by Sales Rep
+
+## Slicers
+- Year
+- Region
+- Product Category
+- Sales Rep
+- Sales Channel
+- Customer Type
+
+## Pages
+- Page 1: Sales Dashboard
+- Tooltip
+- Analysis
+
+## Tools Used
+- Power BI Desktop
+- Power Query
+- DAX
+
+## File
+- `6TH BI.pbix`: Power BI dashboard file
+
+## Author
+Sohini Acharjee
